@@ -1,32 +1,5 @@
-Lista szkół w Polsce:
+List of schools in Poland:
 https://rspo.gov.pl/institutions?q=%7B%22page%22:0,%22pageSize%22:30,%22sort%22:%22%22,%22direction%22:%22%22%7D
 
-Liczba uczniów, którzy do regzaminu maturalnego:
-https://stat.gov.pl/obszary-tematyczne/edukacja/edukacja/liczba-osob-ktore-przystapilyzdaly-egzamin-maturalny,15,1.html
-
-Wyniki egzaminów:
+Exams results:
 https://mapa.wyniki.edu.pl/MapaEgzaminow/
-
-OKE Łódz:
-https://komisja.pl/info.php?i=33
-
-OKE Poznan:
-https://www.oke.poznan.pl/cms,286,wyniki_szkol_egzamin_maturalny_2023_r..htm
-
-OKE Gdańsk:
-
-
-OKE Jaworzno:
-
-
-OKE Kraków:
-
-
-OKE Łomża:
-
-
-OKE Warszawa:
-
-
-OKE Wrocław:
-
