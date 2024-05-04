@@ -3,3 +3,6 @@ https://rspo.gov.pl/institutions?q=%7B%22page%22:0,%22pageSize%22:30,%22sort%22:
 
 Exams results:
 https://mapa.wyniki.edu.pl/MapaEgzaminow/
+
+Geojsons:
+https://github.com/ppatrzyk/polska-geojson
