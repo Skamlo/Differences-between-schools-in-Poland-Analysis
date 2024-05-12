@@ -162,7 +162,8 @@ cython_debug/
 # Environment files
 .env
 
-# Unneecessary folders
+# Unneecessary files
 data/img
 data/inne
 ignore
+toRead.txt
