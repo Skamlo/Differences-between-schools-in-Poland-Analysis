@@ -1,10 +1,6 @@
-<!-- # Educational_Institutions -->
-<p align="center">
-    <span style="font-size: 2.5em;">Is there a place for SQL for school research?</span>
-</p>
+<h1 align="center">Is there a place for SQL for school research?</h1>
 
-
-<br><br>
+<br>
 
 # Abstract
 
@@ -15,7 +11,7 @@ The notebook is a collection of statistics based on which it is possible to conc
 4. The percentage of schools employing a psychologist is 73% and the distribution of employment is uneven among rural, urban and urban communes, public and private schools and voivodeships.
 5. The date of school establishment correlated with student results only in the case of secondary schools and it correlated negatively.
 
-<br><br>
+<br>
 
 # Content
 
@@ -52,7 +48,7 @@ The notebook is a collection of statistics based on which it is possible to conc
 </li>
 </ul>
 
-<br><br>
+<br>
 
 # Example interesting statistics
 
