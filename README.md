@@ -1,5 +1,8 @@
 <!-- # Educational_Institutions -->
-<div style="font-size: 3em; text-align: center;">Is there a place for SQL for school research?</div>
+<p align="center">
+    <span style="font-size: 2.5em;">Is there a place for SQL for school research?</span>
+</p>
+
 
 <br><br>
 
@@ -53,8 +56,8 @@ The notebook is a collection of statistics based on which it is possible to conc
 
 # Example interesting statistics
 
-<div style="text-align: center;">
+<p align="center">
     Did you know that private schools achieve lower scores in the high school leaving examination (matura) than public schools? Why? Check analysis.
     <br><br>
     <img src="graphs/pass_rate_private_public.png">
-</div>
+</p>
