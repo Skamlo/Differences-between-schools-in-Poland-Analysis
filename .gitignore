@@ -166,5 +166,4 @@ cython_debug/
 data/img
 data/inne
 ignore
-graphs
 toRead.txt
